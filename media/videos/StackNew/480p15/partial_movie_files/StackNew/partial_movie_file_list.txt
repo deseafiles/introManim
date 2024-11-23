@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/al/Documents/tes1/media/videos/StackNew/480p15/partial_movie_files/StackNew/1185818338_3553186391_223132457.mp4'
+file 'file:/home/al/Documents/tes1/media/videos/StackNew/480p15/partial_movie_files/StackNew/624642324_1271120934_3451237273.mp4'
+file 'file:/home/al/Documents/tes1/media/videos/StackNew/480p15/partial_movie_files/StackNew/624642324_3019543601_1762173850.mp4'
+file 'file:/home/al/Documents/tes1/media/videos/StackNew/480p15/partial_movie_files/StackNew/624642324_1642553207_3359238547.mp4'
+file 'file:/home/al/Documents/tes1/media/videos/StackNew/480p15/partial_movie_files/StackNew/624642324_3725466110_4026393707.mp4'
+file 'file:/home/al/Documents/tes1/media/videos/StackNew/480p15/partial_movie_files/StackNew/624642324_2569161387_2470651957.mp4'
+file 'file:/home/al/Documents/tes1/media/videos/StackNew/480p15/partial_movie_files/StackNew/624642324_3977997158_1678698032.mp4'
+file 'file:/home/al/Documents/tes1/media/videos/StackNew/480p15/partial_movie_files/StackNew/624642324_1131350431_784738085.mp4'
